@@ -1,7 +1,7 @@
 #!/bin/bash 
 
 ## Should debug trigger?
-#set -x 
+set -x
 
 # Set this env path
 CWD=$(pwd)
